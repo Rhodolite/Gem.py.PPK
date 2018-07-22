@@ -1,16 +1,16 @@
 #
 #   -*- coding: utf-8
 #
-#   Copyright (c) 2017 Joy Diamond.  All rights reserved.
+#   Copyright (c) 2017-2018 Joy Diamond.  All rights reserved.
 #
 #   RSA Key Encryption as explained at http://southernpacificreview.com/2014/01/06/rsa-key-generation-example/
 #
 #   (See also https://en.wikibooks.org/wiki/Cryptography/A_Basic_Public_Key_Example)
 #
-@gem('Dravite.RSA_Example')
+@gem('KeyExample.RSA_Example')
 def gem():
     require_gem('Gem.Exception')
-    require_gem('Dravite.Euclid')
+    require_gem('KeyExample.Euclid')
 
 
     #

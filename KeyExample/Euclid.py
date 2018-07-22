@@ -1,9 +1,9 @@
 #
 #   -*- coding: utf-8
 #
-#   Copyright (c) 2017 Joy Diamond.  All rights reserved.
+#   Copyright (c) 2017-2018 Joy Diamond.  All rights reserved.
 #
-@gem('Dravite.Euclid')
+@gem('KeyExample.Euclid')
 def gem():
     #
     #<copyright>

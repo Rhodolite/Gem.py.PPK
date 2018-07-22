@@ -1,5 +1,5 @@
 #
-#   Copyright (c) 2017 Joy Diamond.  All rights reserved.
+#   Copyright (c) 2017-2018 Joy Diamond.  All rights reserved.
 #
 def boot(module_name):
     def execute(f):
@@ -22,9 +22,9 @@ def boot():
     import Gem
 
 
-@gem('Dravite.Main')
+@gem('KeyExample.Main')
 def gem():
-    require_gem('Dravite.RSA_Example')
+    require_gem('KeyExample.RSA_Example')
 
 
     @share
