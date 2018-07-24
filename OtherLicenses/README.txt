@@ -55,7 +55,7 @@ around any copyrights or licenses.
 Here is a list of all files in the PPK-py sub-project (of the Gem project) that include other
 copyrights:
 
-    1.  PPK-py/Dravite/Euclid.py - Parts of which are licensed by:
+    1.  PPK-py/KeyExample/Euclid.py - Parts of which are licensed by:
 
             "Creative Commons Attribution-ShareAlike 3.0 Unported license"
 
