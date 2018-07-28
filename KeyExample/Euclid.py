@@ -3,8 +3,8 @@
 #
 #   Copyright (c) 2017-2018 Joy Diamond.  All rights reserved.
 #
-@gem('KeyExample.Euclid')
-def gem():
+@module('KeyExample.Euclid')
+def module():
     #
     #<copyright>
     #

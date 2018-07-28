@@ -7,10 +7,10 @@
 #
 #   (See also https://en.wikibooks.org/wiki/Cryptography/A_Basic_Public_Key_Example)
 #
-@gem('KeyExample.RSA_Example')
-def gem():
-    require_gem('Gem.Exception')
-    require_gem('KeyExample.Euclid')
+@module('KeyExample.RSA_Example')
+def module():
+    require_module('Capital.Exception')
+    require_module('KeyExample.Euclid')
 
 
     #
