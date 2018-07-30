@@ -9,7 +9,6 @@
 #
 @module('KeyExample.RSA_Example')
 def module():
-    require_module('Capital.Exception')
     require_module('KeyExample.Euclid')
 
 
